@@ -5,9 +5,7 @@
 **Approach:** Using LSH (Local Sensitive Hashing) to find approximate near neighbours.
 
 **Dataset of Images:**
-[Patches.csv](https://drive.google.com/file/d/10KeXosZYNqPfuPNPxievxtUVAkhxV3ON/view?usp=sharing)
-    
-        Each row in this dataset is a 20 × 20 image patch represented as a 400-dimensional vector.
+[Patches.csv](https://drive.google.com/file/d/10KeXosZYNqPfuPNPxievxtUVAkhxV3ON/view?usp=sharing) (Each row in this dataset is a 20 × 20 image patch represented as a 400-dimensional vector.)
 
 **Theory behind the approach:**
 
